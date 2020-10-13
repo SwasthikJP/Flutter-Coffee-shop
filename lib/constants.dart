@@ -1,0 +1,9 @@
+const String loginpage='/loginpage';
+const String homepage='/homepage';
+const String cartpage='/cart';
+const String totalcost='/totalcost';
+const String payment='/payment';
+const String thanks='/thanks';
+const String signuppage='signup';
+const String splashpage='splash';
+const String accountpage='account';

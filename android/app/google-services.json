@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823396861004",
+    "firebase_url": "https://swasthikjp-apps.firebaseio.com",
+    "project_id": "swasthikjp-apps",
+    "storage_bucket": "swasthikjp-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823396861004:android:66f2372d104835f13e60e9",
+        "android_client_info": {
+          "package_name": "com.example.coffeeapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823396861004-qtthbebit3bm5lsdrrfkl9b44utcs7ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuS9Qoesi6Q9_lB7l1poB50YgVIXnx3I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823396861004-qtthbebit3bm5lsdrrfkl9b44utcs7ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
